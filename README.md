@@ -20,10 +20,15 @@ Password puzzle games
 Genesee Valley is a 2d top-down puzzle RPG made with SpriteKit in Swift.
 
 Team Responsibilities:
+
 Shreyantan Chanda -- Team Captain, Programmer
+
 Emily Jeong -- UI/UX Designer, Original 2D Pixel Artist
+
 Alvin Jiang -- Programmer
+
 Thomas Lee -- Video Editor
+
 Ismael Kabore -- Programmer
 
 
