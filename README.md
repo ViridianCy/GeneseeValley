@@ -7,7 +7,11 @@ Imagine life on the University of Rochester campus in 2D! Play as a student at t
 
 
 Features:
+
 Logic gate puzzles
+
 Beautiful 2D Pixel art
+
 Player movements
+
 Password puzzle games
